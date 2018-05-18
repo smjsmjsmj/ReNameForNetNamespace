@@ -1,0 +1,10 @@
+C:\Users\v-misun\Desktop\RenameNetNamespace\RenameNetNamespace\bin\Debug\RenameNetNamespace.exe.config
+C:\Users\v-misun\Desktop\RenameNetNamespace\RenameNetNamespace\bin\Debug\RenameNetNamespace.exe
+C:\Users\v-misun\Desktop\RenameNetNamespace\RenameNetNamespace\bin\Debug\RenameNetNamespace.pdb
+C:\Users\v-misun\Desktop\RenameNetNamespace\RenameNetNamespace\obj\Debug\RenameNetNamespace.csprojResolveAssemblyReference.cache
+C:\Users\v-misun\Desktop\RenameNetNamespace\RenameNetNamespace\obj\Debug\RenameNetNamespace.Form1.resources
+C:\Users\v-misun\Desktop\RenameNetNamespace\RenameNetNamespace\obj\Debug\RenameNetNamespace.Properties.Resources.resources
+C:\Users\v-misun\Desktop\RenameNetNamespace\RenameNetNamespace\obj\Debug\RenameNetNamespace.csproj.GenerateResource.Cache
+C:\Users\v-misun\Desktop\RenameNetNamespace\RenameNetNamespace\obj\Debug\RenameNetNamespace.csproj.CoreCompileInputs.cache
+C:\Users\v-misun\Desktop\RenameNetNamespace\RenameNetNamespace\obj\Debug\RenameNetNamespace.exe
+C:\Users\v-misun\Desktop\RenameNetNamespace\RenameNetNamespace\obj\Debug\RenameNetNamespace.pdb
