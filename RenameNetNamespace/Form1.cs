@@ -70,7 +70,7 @@ namespace RenameNetNamespace
                         line = stream.ReadLine();
                     }
                     if (line == null) continue;
-                    if(line.Contains("namespace "))
+                    if(line.Contains("namespace ")|| line.Contains("@model "))
                     line=line.Replace(srcString, tarString);
                     lines.Add(line);
                 }
